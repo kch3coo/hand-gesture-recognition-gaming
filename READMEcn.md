@@ -3,7 +3,7 @@ Estimate hand pose using MediaPipe (Python version).<br>
 
 <br> ❗ _️**这个程序大部分来自于这里 [original repo](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe) 以及它的英文翻译版本 [translated english version](https://github.com/kinivi/hand-gesture-recognition-mediapipe)**_ ❗
 <br> 
-![mqlrf-s6x16](https://user-images.githubusercontent.com/37477845/102222442-c452cd00-3f26-11eb-93ec-c387c98231be.gif)
+<img src="/images/tmp1.png" >
 
 # 安装要求
 * mediapipe 0.8.1

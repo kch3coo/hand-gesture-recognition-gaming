@@ -1,9 +1,9 @@
-# hand-gesture-recognition-using-mediapipe
+# hand-gesture-recognition-gaming
 Estimate hand pose using MediaPipe (Python version).<br> 
 This is a program that recognizes and utilize hand gestures to interact with computer. The demo is used to play league of legends with hand gestures. Welcome for improvements.
 <br> ❗ _️**Majority of the code is based on this [original repo](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe) and its [translated english version](https://github.com/kinivi/hand-gesture-recognition-mediapipe)**_ ❗
 <br> 
-![mqlrf-s6x16](https://user-images.githubusercontent.com/37477845/102222442-c452cd00-3f26-11eb-93ec-c387c98231be.gif)
+<img src="/images/tmp1.png" >
 
 # Requirements
 * mediapipe 0.8.1
